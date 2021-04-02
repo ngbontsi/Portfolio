@@ -1,71 +1,50 @@
 [
     {
-        "title": "MangasTech",
-        "paragraph": "Projeto para organizar mangas e ler seus mangas preferidos",
+        "title": "My Portfolio",
+        "paragraph": "tools used to build my portfolio site to better my chances of being recognised as a software developer ",
         "tools": [
             {
-                "title": "Spring Boot"
+                "title": "Angular 11"
             },
             {
-                "title": "AngularJS"
+                "title": "Node Js"
             },
             {
-                "title": "MySql"
+                "title": "AWS EC2"
             },
             {
-                "title": "BootStrap"
+                "title": "AWS ElasticBeanstalk"
             }
         ],
-        "img": "/assets/img/mangasTech.png",
+        "img": "/assets/img/portfolio3.png",
         "github": "https://github.com/BraianS/MangasTech"
     },
     {
-        "title": "Ang Rss Reader",
-        "paragraph": "Simples Rss Reader criado com Angular 8",
+        "title": "NB Development",
+        "paragraph": "My first Android Application to manage my developments",
         "tools": [
             {
-                "title": "Angular 8"
+                "title": "Android"
             },
             {
-                "title": "Bulma"
-            },
-            {
-                "title": "Font Awesome 5"
-            },
-            {
-                "title": "SCSS"
+                "title": "Firebase"
             }
         ],
-        "img": "/assets/img/ang-rss-reader.png",
+        "img": "/assets/img/portfolio.jpg",
         "github": "https://github.com/BraianS/ang-rss-reader"
     },
     {
-        "title": "KanbanSpring",
-        "paragraph": "Full Stack Kanban App to create your account and organize your cards.",
+        "title": "Thulz place",
+        "paragraph": "Android application using sqlite, inventory application for a friend/client to manage his stock ",
         "tools": [
-            {
-                "title": "Angular 9"
-            },
-            {
-                "title": "Angular Material"
-            },
-            {
-                "title": "MongoDB"
-            },
-            {
-                "title": "SCSS"
-            },
-            {
-                "title": "Spring Boot"
-            },
-            {
-                "title": "Spring Security"
-            },
-            {
-                "title": "JWT"
-            }
+          {
+            "title": "Android"
+          },
+          {
+            "title": "Sqlite"
+          }
         ],
-        "img": "/assets/img/kanbanSpring.gif",
+        "img": "/assets/img/portfolio2.jpg",
         "github": "https://github.com/BraianS/spring-security-angular-kanban-app"
     }
 ]
